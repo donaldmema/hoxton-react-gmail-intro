@@ -11,7 +11,7 @@ import Main from "./components/Main";
 function App(): JSX.Element {
   return (
     <div className="app">
-      <Header />
+      <Header  />
       <LeftNavMenu />
       <Main />
     </div>
